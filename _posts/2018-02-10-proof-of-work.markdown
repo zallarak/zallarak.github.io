@@ -20,7 +20,7 @@ If the price of a Bitcoin goes below the cost of mining a Bitcoin, a drop in has
 
 ## Common objections
 
-**Environmental impact**: the environmental impact of proof of work is wasteful.
+**Environmental impact**: because Bitcoin uses proof of work, the collective energy consumption of Bitcoin nodes is significantly higher relative to using a more energy-friendly consensus protocol.
 
 As a species, our energy consumption has risen tremendously as we develop new technologies, on a large timescale. Bitcoin mining is an incredibly trivial contributor to global energy consumption. Environmental impact of energy consumption is a significant problem, but solutions lie in technical advances in clean energy production; we will continue to consume significantly more energy in the long run. In short, moving Bitcoin to a “low-energy” consensus protocol does next to nothing for the environment.
 
