@@ -4,6 +4,8 @@ title:  "Why proof of work is a good consensus protocol"
 date:   2018-02-10 11:39:40 -0800
 categories:
 ---
+Proof of work is an attractive conensus protocol for cryptocurrencies that aspire to become meaningful stores of value.
+
 ## Universal access
 
 The most common way people obtain cryptocurrency is through fiat purchases. One must connect their bank account to a cryptocurrency exchange, transfer fiat money to the exchange, and then purchase cryptocurrency. This poses multiple problems, including requiring access to a bank account and giving up some privacy.
