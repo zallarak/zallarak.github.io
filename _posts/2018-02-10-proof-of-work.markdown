@@ -4,7 +4,7 @@ title:  "Why proof of work is a good consensus protocol"
 date:   2018-02-10 11:39:40 -0800
 categories:
 ---
-Proof of work is an attractive conensus protocol for cryptocurrencies that aspire to become meaningful stores of value.
+*Proof of work is an attractive consensus protocol for cryptocurrencies that aspire to become meaningful stores of value.*
 
 ## Universal access
 
